@@ -1,0 +1,53 @@
+<gallery>
+	<items>
+		<item page_url="http://www.flyer.it">
+			<file>gallery/video/chroniques_sans_frontieres.flv</file>
+			<data>
+				<tit>titolo</tit>
+			</data>
+			<thumb>gallery/foto/DSCN1061.jpg</thumb>
+		</item>
+	</items>
+	<footer>
+		<buy>/deinz/index.php/kauf/PARA_80</buy>
+		<send>/deinz/index.php/kauf/PARA_80</send>
+		<others>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze</title>
+				<price>15,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD80</link>
+			</item>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze 79</title>
+				<price>16,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD79</link>
+			</item>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze 82</title>
+				<price>18,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD82</link>
+			</item>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze 71</title>
+				<price>12,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD71</link>
+			</item>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze 6</title>
+				<price>13,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD6</link>
+			</item>
+			<item>
+				<img>gallery/foto/DSCN1061.jpg</img>
+				<title>Kugelkerze 72</title>
+				<price>11,00</price>
+				<link>/deinz/index.php/player/PARA_Video.idaD72</link>
+			</item>
+		</others>
+	</footer>
+</gallery>

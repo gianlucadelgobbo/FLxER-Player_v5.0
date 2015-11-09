@@ -1,0 +1,96 @@
+<!--
+	lng="en"
+	autostop="false"
+	myLoop="false"
+	fpMenu="false"
+	ss_time="3000"
+	trackID="UA-111-222"
+	logoAlt="NatGeoAdventure\nwww.natgeoadventure.tv"
+	tw="128"
+	th="96"
+	resizza_onoff="true"
+	resizzaJs="resizzaPlayer"
+	centra_onoff="true"
+	swfW="400"
+	swfH="300"
+	btnSelLabel="true"
+	downPath=""
+//	downPath="/_fp/fpDownload.php?file="
+	embePath=""
+//	embePath="/_fp/FlxerPlayer.swf?cnt="
+	endpPath=""
+	myViPath=""
+//	myViPath="/_fp/fpSetViewed.php?file="
+	policyFile=""
+//	policyFile="http://foxinter.vo.llnwd.net/o21/natgeoadventure/crossdomain.xml"
+//
+	thumbSaver="false"
+	fpUpPath="/_fp/fpUp.php"
+//	fpUpPath="/ecode2/Monitor/fpUp.php"
+	fpUpJsOk="writeSnapshotOk"
+
+
+// COLORI TOOLBAR //
+	toolbarHead="0x474747"
+	toolbarHeadTxt="0xFFFFFF"
+	toolbarBorder="0xFFFFFF"
+	toolbarBackground="0xFFFFFF"
+
+// COLORI BOTTONI //
+	btnBorder="0x474747"
+	btnBorderOver="0xEFC700"
+	btnBkg="0x474747"
+	btnBkgOver="0xEFC700"
+	btnSimb="0xFFFFFF"
+	btnSimbOver="0xFFFFFF"
+
+// COLORI PLAYER //
+	playerBackground="0x111111"  /*FONDO PIATTO (NO QUADRATINI) */
+
+// COLORI PLAYlist //
+	playlistThumbnailsOverColor="0xEFC700"
+
+/// COLORI ALT ///
+	altBorder="0xFFFFFF"
+	altBkg="0x000000"
+-->
+<root
+	lng="en"
+	autostop="false"
+	myLoop="false"
+	fpMenu="true"
+	trackID="UA-111-222"
+	resizzaJs="resizzaPlayer"
+	ss_time="3000"
+	endpPath="gallery/footer.xml"
+	policyFile="http://foxinter.vo.llnwd.net/o21/natgeoadventure/crossdomain.xml"
+>
+	<item page_url="http://www.flyer.it">
+		<file>gallery/video/chroniques_sans_frontieres.flv</file>
+		<data>
+			<tit>titolo</tit>
+		</data>
+		<thumb>gallery/foto/DSCN1061.jpg</thumb>
+	</item>
+	<item>
+		<file>gallery/foto/DSCN1061.jpg</file>
+		<data>
+			<tit>titolo</tit>
+		</data>
+		<thumb>gallery/foto/DSCN1061.jpg</thumb>
+	</item>
+	<item page_url="http://www.flxer.net">
+		<file>gallery/video/prova.flv</file>
+		<data>
+			<tit>titolo</tit>
+		</data>
+		<thumb>gallery/foto/DSCN1061.jpg</thumb>
+	</item>
+	<item>
+		<file>gallery/foto/DSCN1062.jpg</file>
+		<data>
+			<tit>titolo</tit>
+		</data>
+		<thumb>gallery/foto/DSCN1061.jpg</thumb>
+	</item>
+</root>
